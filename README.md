@@ -6,3 +6,5 @@ There are somemodule in here taken straight from odoo community, just as example
 
 Deleted the Deploy Key
 --
+Restored the Deployed Key at Odoo.sh Settings
+--
