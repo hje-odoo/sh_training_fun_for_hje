@@ -5,3 +5,5 @@ There are somemodule in here taken straight from odoo community, just as example
 New updates receveived
 
 SH training Dec 11 2024 | Wed
+
+After deleting delpoye key
