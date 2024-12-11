@@ -8,3 +8,4 @@ Deleted the Deploy Key
 --
 Restored the Deployed Key at Odoo.sh Settings
 --
+Deleted! date 11 Dec
