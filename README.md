@@ -7,3 +7,5 @@ New updates receveived
 SH training Dec 11 2024 | Wed
 
 After deleting delpoye key
+
+Dec 12 - Training 2 shifting from training 01
